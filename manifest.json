@@ -3,7 +3,7 @@
   "short_name": "Geotechnical",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#0A2540",
+  "theme_color": "#1F2937",
   "background_color": "#FFFFFF",
   "icons": [
     {
@@ -11,10 +11,5 @@
       "sizes": "any",
       "type": "image/svg+xml"
     }
-  ],
-  "lang": "en",
-  "orientation": "natural",
-  "scope": "/",
-  "description": "Professional geotechnical services in Overland Park, USA. Soil studies, testing and technical consulting.",
-  "id": "/overland-park-5117"
+  ]
 }
